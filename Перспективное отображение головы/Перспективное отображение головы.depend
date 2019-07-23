@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1512468945 source:d:\Программирование\Мои проекты\Электив ДЗ\Перспективное отображение головы\main.cpp
+	<vector>
+	<cmath>
+	<stack>
+	<algorithm>
+	<iostream>
+	<map>
+	<cstdlib>
+	"tgaimage.h"
+	"model.h"
+	"geometry.h"
+
+1508994890 d:\Программирование\Мои проекты\Электив ДЗ\Перспективное отображение головы\tgaimage.h
+	<fstream>
+
+1421530210 d:\Программирование\Мои проекты\Электив ДЗ\Перспективное отображение головы\model.h
+	<vector>
+	"geometry.h"
+
+1506950958 d:\Программирование\Мои проекты\Электив ДЗ\Перспективное отображение головы\geometry.h
+	<cmath>
+
+1510055534 source:d:\Программирование\Мои проекты\Электив ДЗ\Перспективное отображение головы\model.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	"model.h"
+
+1421530210 source:d:\Программирование\Мои проекты\Электив ДЗ\Перспективное отображение головы\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+
+1510055534 source:d:\programming\Мои проекты\Электив ДЗ\Перспективное отображение головы\model.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	"model.h"
+
+1421530210 d:\programming\Мои проекты\Электив ДЗ\Перспективное отображение головы\model.h
+	<vector>
+	"geometry.h"
+
+1506950958 d:\programming\Мои проекты\Электив ДЗ\Перспективное отображение головы\geometry.h
+	<cmath>
+
+1421530210 source:d:\programming\Мои проекты\Электив ДЗ\Перспективное отображение головы\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+
+1508994890 d:\programming\Мои проекты\Электив ДЗ\Перспективное отображение головы\tgaimage.h
+	<fstream>
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1421530210 source:d:\Программирование\Мои проекты\Электив ДЗ\Геометрические преобразования\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+
+1508994890 d:\Программирование\Мои проекты\Электив ДЗ\Геометрические преобразования\tgaimage.h
+	<fstream>
+
+1511270868 source:d:\Программирование\Мои проекты\Электив ДЗ\Геометрические преобразования\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	"tgaimage.h"
+

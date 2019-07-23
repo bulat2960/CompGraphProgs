@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1507636131 source:d:\Программирование\Мои проекты\Электив ДЗ\tgatesting\main.cpp
+	"tgaimage.h"
+	<cmath>
+	<algorithm>
+	<iostream>
+
+1507636167 d:\Программирование\Мои проекты\Электив ДЗ\tgatesting\tgaimage.h
+	<fstream>
+	<iostream>
+
+1505770305 source:d:\Программирование\Мои проекты\Электив ДЗ\tgatesting\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+

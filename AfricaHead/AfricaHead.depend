@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1510055534 source:d:\Программирование\Мои проекты\Электив ДЗ\africahead\model.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	"model.h"
+
+1421530210 d:\Программирование\Мои проекты\Электив ДЗ\africahead\model.h
+	<vector>
+	"geometry.h"
+
+1506950958 d:\Программирование\Мои проекты\Электив ДЗ\africahead\geometry.h
+	<cmath>
+
+1421530210 source:d:\Программирование\Мои проекты\Электив ДЗ\africahead\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+
+1508994890 d:\Программирование\Мои проекты\Электив ДЗ\africahead\tgaimage.h
+	<fstream>
+
+1511871907 source:d:\Программирование\Мои проекты\Электив ДЗ\africahead\main.cpp
+	<vector>
+	<cmath>
+	<stack>
+	<algorithm>
+	<iostream>
+	<map>
+	<cstdlib>
+	"tgaimage.h"
+	"model.h"
+	"geometry.h"
+
+1511871907 source:d:\code blocks programs\Мои проекты\Электив ДЗ\africahead\main.cpp
+	<vector>
+	<cmath>
+	<stack>
+	<algorithm>
+	<iostream>
+	<map>
+	<cstdlib>
+	"tgaimage.h"
+	"model.h"
+	"geometry.h"
+
+1508994890 d:\code blocks programs\Мои проекты\Электив ДЗ\africahead\tgaimage.h
+	<fstream>
+
+1421530210 d:\code blocks programs\Мои проекты\Электив ДЗ\africahead\model.h
+	<vector>
+	"geometry.h"
+
+1506950958 d:\code blocks programs\Мои проекты\Электив ДЗ\africahead\geometry.h
+	<cmath>
+
+1510055534 source:d:\code blocks programs\Мои проекты\Электив ДЗ\africahead\model.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	"model.h"
+
+1421530210 source:d:\code blocks programs\Мои проекты\Электив ДЗ\africahead\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+

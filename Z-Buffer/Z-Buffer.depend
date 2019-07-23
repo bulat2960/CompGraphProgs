@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1421877102 source:d:\Программирование\Мои проекты\Электив ДЗ\z-buffer\geometry.cpp
+	<vector>
+	<cassert>
+	<cmath>
+	<iostream>
+	"geometry.h"
+
+1421877102 d:\Программирование\Мои проекты\Электив ДЗ\z-buffer\geometry.h
+	<cmath>
+
+1512477171 source:d:\Программирование\Мои проекты\Электив ДЗ\z-buffer\main.cpp
+	<vector>
+	<cmath>
+	<iostream>
+	<limits>
+	<algorithm>
+	"tgaimage.h"
+	"model.h"
+	"geometry.h"
+	<bitset>
+
+1512477201 d:\Программирование\Мои проекты\Электив ДЗ\z-buffer\tgaimage.h
+	<fstream>
+
+1421877102 d:\Программирование\Мои проекты\Электив ДЗ\z-buffer\model.h
+	<vector>
+	"geometry.h"
+
+1421877102 source:d:\Программирование\Мои проекты\Электив ДЗ\z-buffer\model.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	"model.h"
+
+1421877102 source:d:\Программирование\Мои проекты\Электив ДЗ\z-buffer\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+

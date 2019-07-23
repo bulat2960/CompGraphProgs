@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1505770305 source:d:\Программирование\Мои проекты\Электив ДЗ\Отсечение многоугольников\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+
+1507636167 d:\Программирование\Мои проекты\Электив ДЗ\Отсечение многоугольников\tgaimage.h
+	<fstream>
+	<iostream>
+
+1509990028 source:d:\Программирование\Мои проекты\Электив ДЗ\Отсечение многоугольников\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	"tgaimage.h"
+
+1505770305 source:d:\programming\Мои проекты\Электив ДЗ\Отсечение многоугольников\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+
+1507636167 d:\programming\Мои проекты\Электив ДЗ\Отсечение многоугольников\tgaimage.h
+	<fstream>
+	<iostream>
+

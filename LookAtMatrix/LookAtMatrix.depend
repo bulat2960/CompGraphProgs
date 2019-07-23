@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1421877102 source:d:\Программирование\Мои проекты\Электив ДЗ\lookatmatrix\geometry.cpp
+	<vector>
+	<cassert>
+	<cmath>
+	<iostream>
+	"geometry.h"
+
+1421877102 d:\Программирование\Мои проекты\Электив ДЗ\lookatmatrix\geometry.h
+	<cmath>
+
+1421877102 source:d:\Программирование\Мои проекты\Электив ДЗ\lookatmatrix\model.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	"model.h"
+
+1421877102 d:\Программирование\Мои проекты\Электив ДЗ\lookatmatrix\model.h
+	<vector>
+	"geometry.h"
+
+1421877102 source:d:\Программирование\Мои проекты\Электив ДЗ\lookatmatrix\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+
+1512477201 d:\Программирование\Мои проекты\Электив ДЗ\lookatmatrix\tgaimage.h
+	<fstream>
+
+1513081088 source:d:\Программирование\Мои проекты\Электив ДЗ\lookatmatrix\main.cpp
+	<vector>
+	<cmath>
+	<stack>
+	<algorithm>
+	<iostream>
+	<map>
+	<cstdlib>
+	"tgaimage.h"
+	"model.h"
+	"geometry.h"
+

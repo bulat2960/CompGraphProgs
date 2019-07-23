@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1506432760 source:d:\Программирование\Мои проекты\Электив ДЗ\modifybrez\main.cpp
+	"tgaimage.h"
+	<cmath>
+	<iostream>
+
+1505767838 d:\Программирование\Мои проекты\Электив ДЗ\modifybrez\tgaimage.h
+	<fstream>
+
+1505770305 source:d:\Программирование\Мои проекты\Электив ДЗ\modifybrez\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+
+1510587391 source:d:\code blocks programs\Мои проекты\Электив ДЗ\modifybrez\main.cpp
+	"tgaimage.h"
+	<cmath>
+	<iostream>
+
+1505767838 d:\code blocks programs\Мои проекты\Электив ДЗ\modifybrez\tgaimage.h
+	<fstream>
+
+1505770305 source:d:\code blocks programs\Мои проекты\Электив ДЗ\modifybrez\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+

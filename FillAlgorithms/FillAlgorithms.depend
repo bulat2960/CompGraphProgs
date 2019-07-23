@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1421530210 source:d:\Программирование\Мои проекты\Электив ДЗ\fillalgorithms\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+
+1508985070 d:\Программирование\Мои проекты\Электив ДЗ\fillalgorithms\tgaimage.h
+	<fstream>
+
+1511214997 source:d:\Программирование\Мои проекты\Электив ДЗ\fillalgorithms\main.cpp
+	<vector>
+	<cmath>
+	<stack>
+	<iostream>
+	<cstdlib>
+	<map>
+	<algorithm>
+	"tgaimage.h"
+
+1506950958 d:\Программирование\Мои проекты\Электив ДЗ\fillalgorithms\geometry.h
+	<cmath>
+
+1421530210 source:d:\code blocks programs\Мои проекты\Электив ДЗ\fillalgorithms\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+
+1508985070 d:\code blocks programs\Мои проекты\Электив ДЗ\fillalgorithms\tgaimage.h
+	<fstream>
+
+1548451207 source:d:\code blocks programs\Мои проекты\Электив ДЗ\fillalgorithms\main.cpp
+	<vector>
+	<cmath>
+	<stack>
+	<iostream>
+	<cstdlib>
+	<map>
+	<algorithm>
+	"tgaimage.h"
+

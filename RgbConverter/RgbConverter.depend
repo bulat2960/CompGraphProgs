@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505821350 source:d:\Программирование\Мои проекты\Электив ДЗ\rgbconverter\rgb.cpp
+	<iostream>
+	<cmath>
+	<vector>
+

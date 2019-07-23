@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1505770305 source:d:\programming\Мои проекты\Электив ДЗ\Множество Жюлиа\tgaimage.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<time.h>
+	<math.h>
+	"tgaimage.h"
+
+1507636167 d:\programming\Мои проекты\Электив ДЗ\Множество Жюлиа\tgaimage.h
+	<fstream>
+	<iostream>
+
+1530146084 source:d:\programming\Мои проекты\Электив ДЗ\Множество Жюлиа\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"tgaimage.h"
+
